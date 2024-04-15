@@ -28,7 +28,8 @@ Nome: Mariah Santos Gomes R.A.: 24.222.027-5
 # Código comentado
 
 ![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+
 Circuito que montamos no Tinkercad
 
-# EXPERIMENTOS
-# CONCLUSÃO
+## EXPERIMENTOS
+## CONCLUSÃO
