@@ -23,11 +23,12 @@ Nome: Mariah Santos Gomes R.A.: 24.222.027-5
 - 2 resistores
 - 1 potenciômetro
 
-# Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa forma, começamos a desenvolver o projeto. Assim, fizemos o circuito no tinkercad, em seguida, desenvolvemos o código para realizar todas as funções do jogo e por último montamos o circuito no dia de sua entrega na aula.
+ Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa forma, começamos a desenvolver o projeto. Assim, fizemos o circuito no tinkercad, em seguida, desenvolvemos o código para realizar todas as funções do jogo e por último montamos o circuito no dia de sua entrega na aula.
 
 # Código comentado
 
-#![image](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+Circuito que montamos no Tinkercad
 
 # EXPERIMENTOS
 # CONCLUSÃO
