@@ -27,9 +27,13 @@ Nome: Mariah Santos Gomes R.A.: 24.222.027-5
 
 # Código comentado
 
+Circuito que montamos no Tinkercad
+
 ![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
 
-Circuito que montamos no Tinkercad
+Circuito montado na aula
+
+
 
 ## EXPERIMENTOS
 
@@ -38,6 +42,10 @@ Circuito que montamos no Tinkercad
 ![Iniciando o jogo](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/11f4bff3-5913-44e1-9e97-1c6a3d78c1b7)
 
 
+Em seguida, o jogo começa a rodar perguntas do nível 1, a saber, que o jogo possui três níveis, ou seja, fácil, médio e díficil. Por isso, o usuário começa a responder as perguntas do nível 1 que seria o fácil e após ele responder e acertar 5 questões desse nível ele sobre o nível.
+
+
+![Tela de níveis](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ee49d95d-3e8c-4e69-aebe-7393da3c6b57)
 
 
 
