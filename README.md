@@ -32,4 +32,14 @@ Nome: Mariah Santos Gomes R.A.: 24.222.027-5
 Circuito que montamos no Tinkercad
 
 ## EXPERIMENTOS
+
+ O jogo possui 4 botões, inclusive, um deles quando apertamos inícia o jogo. E aparece uma frase no display e o jogo começa a rodar.
+
+![Iniciando o jogo](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/11f4bff3-5913-44e1-9e97-1c6a3d78c1b7)
+
+
+
+
+
 ## CONCLUSÃO
+
