@@ -55,6 +55,14 @@ A proxíma tela já começa a mostrar as perguntas, em suma, aparece a pergunta 
 
 ![Mostra quantos pulos o usuário utilizou e ainda tem](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/4f65719e-6474-4f87-a6d7-7f17ffbf9139)
 
+Quando o usuário acerta a questão, aparece uma mensagem na tela incentivando e mostrando a sua pontuação, além disso, toca uma música rápida de comemoração
+
+![Mensagem de acerto de questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/d578f306-bcd3-4061-9d52-b99b2177c3d5)
+
+Se o usuário acertar as 5 perguntas do nível fácil, aparece uma mensagem na tela e conta um tempo para o usuário se preparar para o próximo nível que é mais díficil que o atual.
+
+![Mensagem de comemoração](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/453f45a2-4e98-4efa-af2e-f5dc7b58f1ee)
+
 
 ## CONCLUSÃO
 
