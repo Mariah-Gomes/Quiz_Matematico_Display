@@ -1,16 +1,16 @@
 # Projeto Computação Móvel
-# Nome: Iago Rosa de Oliveira R.A.: 24.123.056-4
-# Nome: Mariah Santos Gomes R.A.: 24.222.027-5
+Nome: Iago Rosa de Oliveira R.A.: 24.123.056-4
+Nome: Mariah Santos Gomes R.A.: 24.222.027-5
 
-# INTRODUÇÃO
+## INTRODUÇÃO
 
-# Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
+ Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
 
-# O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
+ O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
 
-# O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
+ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
  
-# METODOLOGIA
+## METODOLOGIA
 
 # Os materiais que utilizamos foi:
 # Arduino UNO
