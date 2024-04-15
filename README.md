@@ -33,7 +33,7 @@ Circuito que montamos no Tinkercad
 
 Circuito montado na aula
 
-
+![Circuito montado na aula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624)
 
 ## EXPERIMENTOS
 
@@ -55,7 +55,7 @@ A proxíma tela já começa a mostrar as perguntas, em suma, aparece a pergunta 
 
 ![Mostra quantos pulos o usuário utilizou e ainda tem](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/4f65719e-6474-4f87-a6d7-7f17ffbf9139)
 
-Quando o usuário acerta a questão, aparece uma mensagem na tela incentivando e mostrando a sua pontuação, além disso, toca uma música rápida de comemoração
+Quando o usuário acerta a questão, aparece uma mensagem na tela incentivando e mostrando a sua pontuação, além disso, toca uma música rápida de comemoração.
 
 ![Mensagem de acerto de questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/d578f306-bcd3-4061-9d52-b99b2177c3d5)
 
@@ -63,6 +63,31 @@ Se o usuário acertar as 5 perguntas do nível fácil, aparece uma mensagem na t
 
 ![Mensagem de comemoração](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/453f45a2-4e98-4efa-af2e-f5dc7b58f1ee)
 
+Caso o usuário erre alguma pergunta do jogo ele perde. Portanto, o jogo reinicia e o usuário terá que iniciar o jogo novamente caso queria tentar ganhar. Além disso, toca uma música de derrota quando o usuário perde o jogo.
+
+![Mensagem de erro](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/3abdf333-4f43-4854-b56d-93756f2208a0)
+
+Quando o usuário acertar 5 perguntas de cada nível ele é encaminhado para a pergunta final do jogo. Se ele acertar essa pergunta pele ganha o jogo e por consequência toca uma música de vitória.
+
+![Mensagem da pergunta final](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/629df57b-01bc-409e-9144-5b16f0150c65)
+
+Como a pergunta final ela é muito grande, não aparece inteira no display, portanto, roda umas 3 vezes no display para o usuário ver ela inteira e poder responder.
+
+![Pergunta final](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/625ad836-1c72-4e02-94d5-75eaeaf502b1)
+
+Caso o usuário acertar essa pergunta aparece uma mensagem de comemoração e toca uma música comemorando.
+
+![Mensagem de Comemoração](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/437c0411-1094-43ae-84e6-3b0d55b76d53)
+
+O usuário pode pular a pergunta a qualquer momento ou desistir do jogo a qualquer momento. Porém, se o usuário decidir pular a pergunta ele só tem direito a 3 pulos se pular mais do que isso perde o jogo. Além disso, toca uma música quando pula a questão e uma música diferente quando o usuário desiste do jogo.
+
+![Mensagem de quando pula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/bc2fd24b-72bc-40ea-87db-e9850f5ccea9)
+
+![Mensagem de quando desiste do jogo](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/2b0726af-5be3-417e-ac9a-0e542264086d)
+
+Mas, se o usuário pular a última pergunta o jogo considera que ele não ganhou e como pulo. Portanto, toca a música que ele pulou e aparece uma mensagem na tela.
+
+![Mensagem de quando pula a última questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5c32f656-989b-4a08-84cc-7d91e20fb9a1)
 
 ## CONCLUSÃO
-
+O nosso maior desafio foi programar o display, encontramos dificuldade justamente por ter perdido essa aula, mas conseguimos recuperar quando o professor clareou nossas mentes explicando sobre interrupção e utilizamos essa função em dois botões, em particular, no de iníciar/desistir do jogo e no de pular. Contudo, 
