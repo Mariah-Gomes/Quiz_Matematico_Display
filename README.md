@@ -13,15 +13,15 @@ Nome: Mariah Santos Gomes R.A.: 24.222.027-5
  
 ## METODOLOGIA
 
-# Os materiais que utilizamos foi:
-# Arduino UNO
-# 1 LED vermelho
-# 4 botões
-# Buzzer
-# Display LCD 16x2
-# Placa de ensaio
-# 2 resistores
-# 1 potenciômetro
+ Os materiais que utilizamos foi:
+- Arduino UNO
+- 1 LED vermelho
+- 4 botões
+- Buzzer
+- Display LCD 16x2
+- Placa de ensaio
+- 2 resistores
+- 1 potenciômetro
 
 # Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa forma, começamos a desenvolver o projeto. Assim, fizemos o circuito no tinkercad, em seguida, desenvolvemos o código para realizar todas as funções do jogo e por último montamos o circuito no dia de sua entrega na aula.
 
