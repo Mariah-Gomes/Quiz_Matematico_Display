@@ -90,4 +90,4 @@ Mas, se o usuário pular a última pergunta o jogo considera que ele não ganhou
 ![Mensagem de quando pula a última questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5c32f656-989b-4a08-84cc-7d91e20fb9a1)
 
 ## CONCLUSÃO
-O nosso maior desafio foi programar o display, encontramos dificuldade justamente por ter perdido essa aula, mas conseguimos recuperar quando o professor clareou nossas mentes explicando sobre interrupção e utilizamos essa função em dois botões, em particular, no de iníciar/desistir do jogo e no de pular. Contudo, 
+O nosso maior desafio foi programar o display, encontramos dificuldade justamente por ter perdido essa aula, mas conseguimos recuperar quando o professor clareou nossas mentes explicando sobre interrupção e utilizamos essa função em um botão, em particular, no de iníciar/desistir do jogo. Contudo, 
