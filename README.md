@@ -529,5 +529,9 @@ Mas, se o usuário pular a última pergunta o jogo considera que ele não ganhou
 
 ![Mensagem de quando pula a última questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5c32f656-989b-4a08-84cc-7d91e20fb9a1)
 
+## VÍDEO DE DEMONSTRAÇÃO DO JOGO
+
+https://youtu.be/QH3YqY2qIXg
+
 ## CONCLUSÃO
 O nosso maior desafio foi programar o display, encontramos dificuldade justamente por ter perdido essa aula, mas conseguimos recuperar quando o professor clareou nossas mentes explicando sobre interrupção e utilizamos essa função em um botão, em particular, no de iníciar/desistir do jogo. Contudo, para as perguntas criamos duas arrays e colocamos as perguntas em um e as respostas em outro. Mas, para dizer qual pergunta é de cada nível delimitamos por números, ou seja, iria sortear que definirá seu nível. Ou melhor, para delimitarmos os níveis utilizamos intervalos, ou seja, do 0 a 7 era o nível fácil, do 8 ao 15 nível médio, do 16 ao 23 nível díficil. Além disso, para armazenar as perguntas que já foram teria uma variável que é um array que armazena as questões que foram concluídas ou que foram puladas. 
