@@ -3,19 +3,26 @@
 > Status do projeto: Finalizado
 
 ### Tópicos
-🔹[Descrição do Projeto](##descrição-do-projeto)
 
-🔹[Funcionalidade](##funcionalidade)
+🔹[Descrição do Projeto](#descrição-do-projeto)
 
-🔹[Tecnologias utilizadas](##tecnologias-utilizadas)
+🔹[Funcionalidade](#funcionalidade)
 
-🔹[Desenvolvedores](##desenvolvedores)
+🔹[Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+🔹[Desenvolvedores](#desenvolvedores)
 
 ## :pencil: Descrição do Projeto
 
+Aqui vai a descrição do projeto.
+
 ## :mag_right: Funcionalidade
 
+Aqui vai a funcionalidade do projeto.
+
 ## :computer: Tecnologias Utilizadas
+
+Aqui vai a lista de tecnologias utilizadas.
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
