@@ -22,7 +22,18 @@ Aqui vai a funcionalidade do projeto.
 
 ## :computer: Tecnologias Utilizadas
 
-Aqui vai a lista de tecnologias utilizadas.
+- Para montarmos uma primeira ideia do projeto utilizamos o Tinkercad;
+- A IDE que utilizamos foi a Arduino IDE;
+- A linguagem que utilizamos foi C++;
+- Os materiais que utilizamos para montar o circuito do tinkercad foi:
+  - Arduino Uno;
+  - 1 LED vermelho;
+  - 4 botões;
+  - Buzzer;
+  - Display LCD 16x2;
+  - Placa de ensaio;
+  - 2 resistores;
+  - 1 potenciômetro;
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
