@@ -3,7 +3,7 @@
 > Status do projeto: Finalizado
 
 ### Tópicos
-🔹[Descrição do Projeto](#:pencil:descrição-do-projeto)
+🔹[Descrição do Projeto](#descrição-do-projeto)
 
 🔹[Funcionalidade](#funcionalidade)
 
