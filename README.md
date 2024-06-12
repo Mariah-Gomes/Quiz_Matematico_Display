@@ -1,7 +1,16 @@
-# Projeto Computação Móvel
-Nome: Iago Rosa de Oliveira R.A.: 24.123.056-4
+# Jogo Display
 
-Nome: Mariah Santos Gomes R.A.: 24.222.027-5
+> Status do projeto: Finalizado
+
+### Tópicos
+
+## Descrição do Projeto
+
+## Funcionalidade
+
+## Linguagens, Dependências e libs
+
+## Desenvolvedores
 
 ## INTRODUÇÃO
 
