@@ -21,7 +21,6 @@ Aqui vai a descrição do projeto.
 Aqui vai a funcionalidade do projeto.
 
 ## :computer: Tecnologias Utilizadas
-
 - Para montarmos uma primeira ideia do projeto utilizamos o Tinkercad;
 - A IDE que utilizamos foi a Arduino IDE;
 - A linguagem que utilizamos foi C++;
