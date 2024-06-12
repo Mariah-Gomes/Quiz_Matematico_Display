@@ -18,13 +18,14 @@
 ## Tecnologias Utilizadas
 
 ## Desenvolvedores
-| [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e700a691-2a67-4429-aa79-a45a446f5c60
-" width=50 ><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) |
-[<img src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881
-" width=50 /><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28)
+| [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e700a691-2a67-4429-aa79-a45a446f5c60" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) |
+[<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
 | :---: | :---: |
 
+# Autores
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 ## INTRODUÇÃO
 
