@@ -6,11 +6,11 @@
 
 🔹[Descrição do Projeto](#pencil-descrição-do-projeto)
 
-🔹[Funcionalidade](#funcionalidade)
+🔹[Funcionalidade](#mag_right-funcionalidade)
 
-🔹[Tecnologias Utilizadas](#tecnologias-utilizadas)
+🔹[Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
 
-🔹[Desenvolvedores](#desenvolvedores)
+🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
 ## :pencil: Descrição do Projeto
 
