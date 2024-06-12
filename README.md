@@ -4,7 +4,7 @@
 
 ### Tópicos
 
-🔹[Descrição do Projeto](#descrição-do-projeto)
+🔹[Descrição do Projeto](#pencil-descrição-do-projeto)
 
 🔹[Funcionalidade](#funcionalidade)
 
