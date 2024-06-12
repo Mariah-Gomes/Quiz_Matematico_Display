@@ -21,7 +21,7 @@
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e700a691-2a67-4429-aa79-a45a446f5c60
 " width=50 ><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) |
 [<img src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881
-" width=50 /><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28)|
+" width=50 /><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28)
 | :---: | :---: |
 
 
