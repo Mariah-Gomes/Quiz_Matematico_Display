@@ -4,8 +4,11 @@
 
 ### Tópicos
 🔹[Descrição do Projeto](#descrição-do-projeto)
+
 🔹[Funcionalidade](#funcionalidade)
+
 🔹[Tecnologias utilizadas](#tecnologias-utilizadas)
+
 🔹[Desenvolvedores](#desenvolvedores)
 
 ## Descrição do Projeto
