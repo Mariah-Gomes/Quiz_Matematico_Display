@@ -14,7 +14,7 @@
 
 ## :pencil: Descrição do Projeto
 
-Aqui vai a descrição do projeto.
+
 
 ## :mag_right: Funcionalidade
 
