@@ -11,7 +11,7 @@
 
 🔹[Desenvolvedores](#desenvolvedores)
 
-:pencil: ## Descrição do Projeto
+## :pencil:Descrição do Projeto
 
 ## :mag_right:Funcionalidade
 
