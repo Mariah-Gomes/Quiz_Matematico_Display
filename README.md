@@ -135,9 +135,13 @@ Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa 
 
 ## Circuitos Montados
 ### Circuito Tinkercad
-![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5"/>
+</div>
 ### Circuito Com Arduino UNO
-![Circuito montado na aula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624"/>
+</div>
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
