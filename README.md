@@ -1,6 +1,7 @@
 # Jogo Display
 
 > Status do projeto: Finalizado
+> Observação: Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
 
 ### Tópicos
 
@@ -14,7 +15,11 @@
 
 ## :pencil: Descrição do Projeto
 
+Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
 
+O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
+
+O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
 
 ## :mag_right: Funcionalidade
 
@@ -38,25 +43,10 @@ Aqui vai a funcionalidade do projeto.
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
 | :---: | :---: |
 
-## INTRODUÇÃO
-
- Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
-
- O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
-
- O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
  
 ## METODOLOGIA
 
- Os materiais que utilizamos foi:
-- Arduino UNO
-- 1 LED vermelho
-- 4 botões
-- Buzzer
-- Display LCD 16x2
-- Placa de ensaio
-- 2 resistores
-- 1 potenciômetro
+
 
  Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa forma, começamos a desenvolver o projeto. Assim, fizemos o circuito no tinkercad, em seguida, desenvolvemos o código para realizar todas as funções do jogo e por último montamos o circuito no dia de sua entrega na aula.
 
@@ -128,5 +118,4 @@ Mas, se o usuário pular a última pergunta o jogo considera que ele não ganhou
 
 https://youtu.be/QH3YqY2qIXg
 
-## CONCLUSÃO
-O nosso maior desafio foi programar o display, encontramos dificuldade justamente por ter perdido essa aula, mas conseguimos recuperar quando o professor clareou nossas mentes explicando sobre interrupção e utilizamos essa função em um botão, em particular, no de iníciar/desistir do jogo. Contudo, para as perguntas criamos duas arrays e colocamos as perguntas em um e as respostas em outro. Mas, para dizer qual pergunta é de cada nível delimitamos por números, ou seja, iria sortear que definirá seu nível. Ou melhor, para delimitarmos os níveis utilizamos intervalos, ou seja, do 0 a 7 era o nível fácil, do 8 ao 15 nível médio, do 16 ao 23 nível díficil. Além disso, para armazenar as perguntas que já foram teria uma variável que é um array que armazena as questões que foram concluídas ou que foram puladas. 
+
