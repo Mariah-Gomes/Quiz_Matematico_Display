@@ -85,25 +85,37 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
 
 7. Quando o usuário acertar 5 perguntas de cada nível ele é encaminhado para a pergunta final do jogo. Se ele acertar essa pergunta pele ganha o jogo e por consequência toca uma música de vitória.
 
-![Mensagem da pergunta final](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/629df57b-01bc-409e-9144-5b16f0150c65)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/629df57b-01bc-409e-9144-5b16f0150c65"/>
+</div>
 
 8. Como a pergunta final ela é muito grande, não aparece inteira no display, portanto, roda umas 3 vezes no display para o usuário ver ela inteira e poder responder.
 
-![Pergunta final](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/625ad836-1c72-4e02-94d5-75eaeaf502b1)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/625ad836-1c72-4e02-94d5-75eaeaf502b1"/>
+</div>
 
 9. Caso o usuário acertar essa pergunta aparece uma mensagem de comemoração e toca uma música comemorando.
 
-![Mensagem de Comemoração](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/437c0411-1094-43ae-84e6-3b0d55b76d53)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/437c0411-1094-43ae-84e6-3b0d55b76d53"/>
+</div>
 
 10. O usuário pode pular a pergunta a qualquer momento ou desistir do jogo a qualquer momento. Porém, se o usuário decidir pular a pergunta ele só tem direito a 3 pulos se pular mais do que isso perde o jogo. Além disso, toca uma música quando pula a questão e uma música diferente quando o usuário desiste do jogo.
 
-![Mensagem de quando pula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/bc2fd24b-72bc-40ea-87db-e9850f5ccea9)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/bc2fd24b-72bc-40ea-87db-e9850f5ccea9"/>
+</div>
 
-![Mensagem de quando desiste do jogo](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/2b0726af-5be3-417e-ac9a-0e542264086d)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/2b0726af-5be3-417e-ac9a-0e542264086d"/>
+</div>
 
 11. Mas, se o usuário pular a última pergunta o jogo considera que ele não ganhou e como pulo. Portanto, toca a música que ele pulou e aparece uma mensagem na tela.
 
-![Mensagem de quando pula a última questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5c32f656-989b-4a08-84cc-7d91e20fb9a1)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5c32f656-989b-4a08-84cc-7d91e20fb9a1"/>
+</div>
 
 ## :computer: Tecnologias Utilizadas
 - Para montarmos uma primeira ideia do projeto utilizamos o Tinkercad;
