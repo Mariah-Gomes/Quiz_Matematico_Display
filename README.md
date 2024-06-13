@@ -49,11 +49,21 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
    <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/62b28fc4-8ade-449d-8470-1d4f42560e0f"/>
 </div>
 
-![LED piscando quando o tempo está acabando](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5cf877cf-1faa-4f71-94a5-70f027df8bac)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/62b28fc4-8ade-449d-8470-1d4f42560e0f"/>
+</div>
 
-![Mensagem quando o tempo acaba](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/fa50e496-e3d9-40b3-b85d-67515d0ceb04)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5cf877cf-1faa-4f71-94a5-70f027df8bac"/>
+</div>
 
-![Mostra quantos pulos o usuário utilizou e ainda tem](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/4f65719e-6474-4f87-a6d7-7f17ffbf9139)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/fa50e496-e3d9-40b3-b85d-67515d0ceb04"/>
+</div>
+
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/4f65719e-6474-4f87-a6d7-7f17ffbf9139"/>
+</div>
 
 4. Quando o usuário acerta a questão, aparece uma mensagem na tela incentivando e mostrando a sua pontuação, além disso, toca uma música rápida de comemoração.
 
