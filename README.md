@@ -20,19 +20,20 @@ Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas
 
 O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
 
-O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
+O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo. Além disso, quando o tempo estiver acabando o led começa a piscar.
 
 ## :mag_right: Funcionalidade
 1. Com a proposta do projeto em mãos, primeiro reunimos todas as informações e montamos um protótipo na plataforma Tinkercad.
    
-   ![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+   
 
-2. AA
-4. A
-5. a
-6. A
+2. Com o circuito montado, começamos a pensar na lógica e programar.
+   
+3. Com isso
+4. a
+5. A
+6. a
 7. a
-8. a
 
 ## :computer: Tecnologias Utilizadas
 - Para montarmos uma primeira ideia do projeto utilizamos o Tinkercad;
@@ -47,6 +48,12 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
   - Placa de ensaio;
   - 2 resistores;
   - 1 potenciômetro;
+
+## Circuitos Montados
+### Circuito Tinkercad
+![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+### Circuito Com Arduino UNO
+![Circuito montado na aula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624)
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/66d7e656-b9e4-43b7-94fa-931b736df881" width=115><br><sub>Iago Rosa de Oliveira</sub>](https://github.com/iagorosa28) |
@@ -63,7 +70,7 @@ Circuito que montamos no Tinkercad
 
 Circuito montado na aula
 
-![Circuito montado na aula](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624)
+
 
 ## EXPERIMENTOS
 
