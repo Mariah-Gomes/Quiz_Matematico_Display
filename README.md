@@ -67,15 +67,21 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
 
 4. Quando o usuário acerta a questão, aparece uma mensagem na tela incentivando e mostrando a sua pontuação, além disso, toca uma música rápida de comemoração.
 
-![Mensagem de acerto de questão](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/d578f306-bcd3-4061-9d52-b99b2177c3d5)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/d578f306-bcd3-4061-9d52-b99b2177c3d5"/>
+</div>
 
 5. Se o usuário acertar as 5 perguntas do nível fácil, aparece uma mensagem na tela e conta um tempo para o usuário se preparar para o próximo nível que é mais díficil que o atual.
 
-![Mensagem de comemoração](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/453f45a2-4e98-4efa-af2e-f5dc7b58f1ee)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/453f45a2-4e98-4efa-af2e-f5dc7b58f1ee"/>
+</div>
 
 6. Caso o usuário erre alguma pergunta do jogo ele perde. Portanto, o jogo reinicia e o usuário terá que iniciar o jogo novamente caso queria tentar ganhar. Além disso, toca uma música de derrota quando o usuário perde o jogo.
 
-![Mensagem de erro](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/3abdf333-4f43-4854-b56d-93756f2208a0)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/3abdf333-4f43-4854-b56d-93756f2208a0"/>
+</div>
 
 7. Quando o usuário acertar 5 perguntas de cada nível ele é encaminhado para a pergunta final do jogo. Se ele acertar essa pergunta pele ganha o jogo e por consequência toca uma música de vitória.
 
