@@ -27,7 +27,7 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
 ## :mag_right: Funcionalidade
 1.  O jogo possui 4 botões, inclusive, um deles quando apertamos inícia o jogo. E aparece uma frase no display e o jogo começa a rodar.
 
-<img width=350 height=200 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/11f4bff3-5913-44e1-9e97-1c6a3d78c1b7"/>
+<img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/11f4bff3-5913-44e1-9e97-1c6a3d78c1b7"/>
 
 ![Iniciando o jogo](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/11f4bff3-5913-44e1-9e97-1c6a3d78c1b7)
 
