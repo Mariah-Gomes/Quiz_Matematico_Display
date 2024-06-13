@@ -19,11 +19,11 @@
 ## :pencil: Descrição do Projeto
 
 <div align="justify">
-Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
+      Nesse projeto nos foi proposto fazer um jogo de perguntas e respostas, onde elas aparecem em um display e o usuário aperta os botões de "sim" ou "não" para responder as perguntas. Além disso, o jogo emite sons em diversas situações.
 
-O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
+      O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difícil e o jogador deverá acertar 5 perguntas de cada nível. Mas, para ganhar o jogo precisaria acertar uma pergunta final.
 
-O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo. Além disso, quando o tempo estiver acabando o led começa a piscar.
+      O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo. Além disso, quando o tempo estiver acabando o led começa a piscar.
 </div>
 
 ## :mag_right: Funcionalidade
