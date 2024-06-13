@@ -45,7 +45,9 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
    
 3. A proxíma tela já começa a mostrar as perguntas, em suma, aparece a pergunta e o usuário tem um tempo para responder "sim" ou "não". Porventura, o usuário demorar para responder o LED vermelho vai começar a piscar e se o usuário não responder no tempo certo pula a pergunta e ele perde 1 pulo.
 
-![Tela com a pergunta](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/62b28fc4-8ade-449d-8470-1d4f42560e0f)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/62b28fc4-8ade-449d-8470-1d4f42560e0f"/>
+</div>
 
 ![LED piscando quando o tempo está acabando](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/5cf877cf-1faa-4f71-94a5-70f027df8bac)
 
