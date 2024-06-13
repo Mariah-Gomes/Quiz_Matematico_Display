@@ -136,11 +136,11 @@ Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa 
 ## Circuitos Montados
 ### Circuito Tinkercad
 <div align="center">
-   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5"/>
+   <img width=500 height=350 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5"/>
 </div>
 ### Circuito Com Arduino UNO
 <div align="center">
-   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624"/>
+   <img width=500 height=350 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/104e619f-c209-40fc-8598-2e0f96620624"/>
 </div>
 
 ## :busts_in_silhouette: Desenvolvedores
