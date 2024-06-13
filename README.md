@@ -24,8 +24,10 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
 
 ## :mag_right: Funcionalidade
 1. Com a proposta do projeto em mãos, primeiro reunimos todas as informações e montamos um protótipo na plataforma Tinkercad.
+   
    ![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
-3. AA
+
+2. AA
 4. A
 5. a
 6. A
