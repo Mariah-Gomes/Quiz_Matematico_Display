@@ -23,8 +23,14 @@ O jogo deveria possuir 3 níveis de perguntas, ou seja, fácil, médio e difíci
 O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: quando acerta a questão, pula a questão, errou a questão, desistiu do jogo e venceu o jogo.
 
 ## :mag_right: Funcionalidade
-
-Aqui vai a funcionalidade do projeto.
+1. Com a proposta do projeto em mãos, primeiro reunimos todas as informações e montamos um protótipo na plataforma Tinkercad.
+   ![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+3. AA
+4. A
+5. a
+6. A
+7. a
+8. a
 
 ## :computer: Tecnologias Utilizadas
 - Para montarmos uma primeira ideia do projeto utilizamos o Tinkercad;
@@ -47,15 +53,11 @@ Aqui vai a funcionalidade do projeto.
  
 ## METODOLOGIA
 
-
-
  Com os materiais que iriamos utilizar em mente e com as perguntas feitas, dessa forma, começamos a desenvolver o projeto. Assim, fizemos o circuito no tinkercad, em seguida, desenvolvemos o código para realizar todas as funções do jogo e por último montamos o circuito no dia de sua entrega na aula.
-
-
 
 Circuito que montamos no Tinkercad
 
-![Circuito Tinkercad](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ceec4e8e-82c0-47da-bf58-ef968e7b7ce5)
+
 
 Circuito montado na aula
 
