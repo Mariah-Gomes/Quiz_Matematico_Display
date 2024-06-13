@@ -1,6 +1,7 @@
 # Jogo Display
 
 > Status do projeto: Finalizado
+
 > Observação: Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
 
 ### Tópicos
