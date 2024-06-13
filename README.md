@@ -39,7 +39,9 @@ O jogo utiliza 5 sons diferentes para 5 situações diferentes. Os casos são: q
 
 2. Em seguida, o jogo começa a rodar perguntas do nível 1, a saber, que o jogo possui três níveis, ou seja, fácil, médio e díficil. Por isso, o usuário começa a responder as perguntas do nível 1 que seria o fácil e após ele responder e acertar 5 questões desse nível ele sobre o nível.
 
-![Tela de níveis](https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ee49d95d-3e8c-4e69-aebe-7393da3c6b57)
+<div align="center">
+   <img width=400 height=250 src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/ee49d95d-3e8c-4e69-aebe-7393da3c6b57"/>
+</div>
    
 3. A proxíma tela já começa a mostrar as perguntas, em suma, aparece a pergunta e o usuário tem um tempo para responder "sim" ou "não". Porventura, o usuário demorar para responder o LED vermelho vai começar a piscar e se o usuário não responder no tempo certo pula a pergunta e ele perde 1 pulo.
 
