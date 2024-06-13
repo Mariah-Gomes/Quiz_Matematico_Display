@@ -1,4 +1,4 @@
-# Jogo Display
+# Quiz Matemático Display
 
 > Status do projeto: Finalizado
 
